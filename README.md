@@ -4,21 +4,16 @@ Production-Grade Web Systems Engineer focused on **architecture, scalability, an
 I design and harden web systems for real-world constraints—**operational excellence, observability, and defensible delivery**.
 
 **Core pillars**
-- Stability / Resilience (Reliability, performance, incident-proof systems)
+- Stability / Resilience (reliability, performance, production readiness)
 - Localization / Reduced external dependency (pragmatic solutions for constrained environments)
-- Evidence / Reporting (metrics, dashboards, traceability, production readiness)
-
-**What I can help with**
-- Architecture reviews & system design (from MVP to scale)
-- Reliability & performance improvements (SLOs, bottlenecks, incident reduction)
-- Observability & production readiness (logging/metrics/tracing, runbooks)
+- Evidence / Reporting (metrics, dashboards, traceability)
 
 **Portfolio & contact:** https://alirezasafaeidev.ir
 
 ---
 
-## Selected work
-- 🧱 Architecture & standards: (pin a repo here)
-- 🔭 Observability & reliability: (pin a repo here)
-- ⚙️ Practical web systems: (pin a repo here)
-
+## Featured work
+- 🧱 **Standards & architecture:** asdev-standards-platform
+- ⚙️ **System building / automation:** asdev-automation-hub
+- 🛡️ **Localization / anti-sanctions:** asdev-creator-membership-ir
+- 🌐 **Live product:** asdev-persiantoolbox — https://persiantoolbox.ir
